@@ -6,7 +6,7 @@ Se trata de un IDE que ejecuta y compila programas Java, realizado con Java y Sw
 
   1. Una zona de escritura, y una zona de terminal.
   2. Un menú superior que ofrece:
-    3. Opción "Archivo": Nuevo, abrir, guardar...
-    4. Opción "Edicion": Deshacer, rehacer, copiar...
+    3. Opción "Archivo": Nuevo, abrir, guardar, etc.
+    4. Opción "Edicion": Deshacer, rehacer, etc.
     5. Opción "Ayuda": No es muy útil.
     6. Tres botones: Compilar, Run, Salir.
